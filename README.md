@@ -16,3 +16,4 @@ This project utilizes the following technologies:
 - **Kotlin**: A modern programming language used for Android app development.
 - **Firebase Authentication**: Firebase's authentication service for securely managing user identities.
 - **Firebase Firestore**: Firebase's cloud-hosted NoSQL database for storing user data.
+- SQLite Database: A lightweight, local SQL database used for storing user data securely on the device.
